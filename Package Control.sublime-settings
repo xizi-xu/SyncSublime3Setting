@@ -1,0 +1,37 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Agila Theme",
+		"Alignment",
+		"All Autocomplete",
+		"AngularJS",
+		"AutoFileName",
+		"Boxy Theme",
+		"Boxy Theme Addon - Mono File Icons",
+		"BracketHighlighter",
+		"Dictionaries",
+		"DictionaryAutoComplete",
+		"EncodingHelper",
+		"FileDiffs",
+		"Git",
+		"GitGutter",
+		"Goto Bootstrap",
+		"Indent XML",
+		"JavaImports",
+		"JSONLint",
+		"Package Control",
+		"Pretty JSON",
+		"SFTP",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"SummitLinter",
+		"Theme - Autumn",
+		"TrailingSpaces",
+		"zz File Icons"
+	]
+}
