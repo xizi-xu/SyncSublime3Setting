@@ -27,7 +27,7 @@
 		".DS_Store",
 		"*.psd"
 	],
-	"font_size": 14,
+	"font_size": 13,
 	"ignored_packages":
 	[
 		"Markdown",
@@ -39,6 +39,7 @@
 		80
 	],
 	"show_encoding": true,
+	"show_line_endings": true,
 	"theme": "Boxy Monokai.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"word_wrap": true
