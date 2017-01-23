@@ -27,7 +27,7 @@
 		".DS_Store",
 		"*.psd"
 	],
-	"font_size": 13,
+	"font_size": 14,
 	"ignored_packages":
 	[
 		"Markdown",
