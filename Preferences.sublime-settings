@@ -30,6 +30,11 @@
 	"font_size": 14,
 	"ignored_packages":
 	[
+		"Agila Theme",
+		"FileDiffs",
+		"Goto Bootstrap",
+		"Indent XML",
+		"JSONLint",
 		"Markdown",
 		"Vintage"
 	],
