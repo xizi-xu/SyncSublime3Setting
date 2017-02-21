@@ -2,9 +2,11 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"zz File Icons"
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"Alignment",
 		"All Autocomplete",
 		"AngularJS",
@@ -17,7 +19,6 @@
 		"BracketHighlighter",
 		"Color Highlighter",
 		"Console Wrap for js",
-		"DictionaryAutoComplete",
 		"Git",
 		"GitGutter",
 		"HTML-CSS-JS Prettify",
