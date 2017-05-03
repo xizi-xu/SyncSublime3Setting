@@ -2,7 +2,6 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"zz File Icons"
 	],
 	"installed_packages":
 	[
@@ -18,7 +17,7 @@
 		"Boxy Theme Addon - Mono File Icons",
 		"BracketHighlighter",
 		"Color Highlighter",
-		"Console Wrap for js",
+		"Console Wrap",
 		"Git",
 		"GitGutter",
 		"HTML-CSS-JS Prettify",
@@ -34,7 +33,6 @@
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-jshint",
-		"TrailingSpaces",
-		"zz File Icons"
+		"TrailingSpaces"
 	]
 }

@@ -34,8 +34,7 @@
 		"Indent XML",
 		"JSONLint",
 		"Markdown",
-		"Vintage",
-		"zz File Icons"
+		"Vintage"
 	],
 	"open_files_in_new_window": false,
 	"rulers":
@@ -45,6 +44,6 @@
 	"show_encoding": true,
 	"show_line_endings": true,
 	"theme": "Boxy Monokai.sublime-theme",
-	"translate_tabs_to_spaces": true,
+	"translate_tabs_to_spaces": false,
 	"word_wrap": true
 }
