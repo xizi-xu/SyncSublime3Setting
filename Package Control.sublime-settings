@@ -25,6 +25,7 @@
 		"HTML5",
 		"JavaImports",
 		"JavaScript Completions",
+		"JSX",
 		"Package Control",
 		"Pretty JSON",
 		"Python Completions",
@@ -34,7 +35,7 @@
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeLinter",
-		"SublimeLinter-jshint",
+		"SublimeLinter-contrib-eslint",
 		"TrailingSpaces"
 	]
 }
