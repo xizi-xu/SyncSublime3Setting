@@ -14,7 +14,6 @@
 		"Babel",
 		"Bootstrap 3 Autocomplete",
 		"Boxy Theme",
-		"Boxy Theme Addon - Mono File Icons",
 		"BracketHighlighter",
 		"Color Highlighter",
 		"Compare Side-By-Side",
@@ -34,7 +33,7 @@
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeLinter",
-		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-eslint",
 		"TrailingSpaces"
 	]
 }
