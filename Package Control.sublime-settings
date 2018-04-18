@@ -2,6 +2,8 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint"
 	],
 	"installed_packages":
 	[
