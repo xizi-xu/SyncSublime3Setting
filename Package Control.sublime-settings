@@ -2,8 +2,6 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"SublimeLinter",
-		"SublimeLinter-contrib-eslint"
 	],
 	"installed_packages":
 	[
@@ -24,9 +22,10 @@
 		"Git",
 		"HTML-CSS-JS Prettify",
 		"HTML5",
+		"INI",
 		"JavaImports",
 		"JavaScript Completions",
-		"Markdown Preview",
+		"MarkdownPreview",
 		"Package Control",
 		"Pretty JSON",
 		"Python Completions",
