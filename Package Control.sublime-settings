@@ -36,6 +36,7 @@
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-eslint",
-		"TrailingSpaces"
+		"TrailingSpaces",
+		"TypeScript"
 	]
 }
